@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Statistik Kunci](README.md)
+* [One Stop Service BPS Kabupaten Labuhanbatu Selatan](README.md)
 
 ## Statisik Kunci
 
