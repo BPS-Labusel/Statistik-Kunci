@@ -4,9 +4,6 @@
 
 ## Statisik Kunci
 
-* [PENDIDIKAN](statisik-kunci/pendidikan/README.md)
-  * [Angka Partisipasi Sekolah (APS)](statisik-kunci/pendidikan/quickstart.md)
-  * [Angka Partisipasi Murni (APM)](statisik-kunci/pendidikan/angka-partisipasi-murni-apm.md)
 * [KEMISKINAN](statisik-kunci/kemiskinan/README.md)
   * [Persentase Penduduk Miskin](statisik-kunci/kemiskinan/publish-your-docs.md)
 * [KETENAGAKERJAAN](statisik-kunci/ketenagakerjaan/README.md)
@@ -16,6 +13,10 @@
   * [PDRB](statisik-kunci/sistem-neraca-nasional/pdrb.md)
   * [Page 1](statisik-kunci/sistem-neraca-nasional/page-1.md)
 * [Page](statisik-kunci/page.md)
+* [PENDIDIKAN](statisik-kunci/pendidikan/README.md)
+  * [Angka Partisipasi Sekolah (APS)](statisik-kunci/pendidikan/quickstart.md)
+  * [Angka Partisipasi Murni (APM)](statisik-kunci/pendidikan/angka-partisipasi-murni-apm.md)
+* [Page 2](statisik-kunci/page-2.md)
 
 ## Basics
 
