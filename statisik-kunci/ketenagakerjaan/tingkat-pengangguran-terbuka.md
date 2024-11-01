@@ -1,2 +1,0 @@
-# Tingkat Pengangguran Terbuka
-
