@@ -6,7 +6,7 @@
     * [Perpustakaan](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/perpustakaan.md)
     * [Konsultasi Statistik](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/konsultasi-statistik.md)
     * [Penjualan Produk Statistik](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/penjualan-produk-statistik.md)
-  * [Rekomendasi Kegiatan Statistik](pelayanan-statistik-terpadu-pst/rekomendasi-kegiatan-statistik.md)
+    * [Rekomendasi Kegiatan Statistik](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/rekomendasi-kegiatan-statistik.md)
   * [Prosedur Pelayanan](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/README.md)
     * [Perpustakaan](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/perpustakaan.md)
     * [Konsultasi Statistik](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/konsultasi-statistik.md)
