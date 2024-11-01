@@ -14,4 +14,4 @@ Jelajahi pengalaman menarik tak terlupakan dengan berbagai konten Humas & Sosial
 
 ***
 
-Humas BPS Kabupaten Labuhanbatu Selatan memungkinkan sahabat data untuk menjalin koordinasi dengan efektif dan efisien dengan alur komunikasi yang jelas dan sesuai prosedur pelayanan.&#x20;
+Humas BPS Kabupaten Labuhanbatu Selatan menjadi narahubung sahabat data untuk menjalin koordinasi dengan efektif dan efisien dengan alur komunikasi yang jelas dan sesuai prosedur pelayanan.&#x20;

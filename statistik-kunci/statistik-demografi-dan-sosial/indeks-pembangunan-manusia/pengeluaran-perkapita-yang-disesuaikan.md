@@ -1,0 +1,2 @@
+# Pengeluaran Perkapita yang Disesuaikan
+
