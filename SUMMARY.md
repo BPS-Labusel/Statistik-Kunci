@@ -2,11 +2,7 @@
 
 * [One Stop Service BPS Kabupaten Labuhanbatu Selatan](README.md)
 * [Pelayanan Statistik Terpadu (PST)](pelayanan-statistik-terpadu-pst/README.md)
-  * [Jenis Layanan PST](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/README.md)
-    * [Perpustakaan](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/perpustakaan.md)
-    * [Konsultasi Statistik](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/konsultasi-statistik.md)
-    * [Penjualan Produk Statistik](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/penjualan-produk-statistik.md)
-    * [Rekomendasi Kegiatan Statistik](pelayanan-statistik-terpadu-pst/jenis-layanan-pst/rekomendasi-kegiatan-statistik.md)
+  * [Jenis Layanan PST](pelayanan-statistik-terpadu-pst/jenis-layanan-pst.md)
   * [Prosedur Pelayanan](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/README.md)
     * [Perpustakaan](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/perpustakaan.md)
     * [Konsultasi Statistik](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/konsultasi-statistik.md)

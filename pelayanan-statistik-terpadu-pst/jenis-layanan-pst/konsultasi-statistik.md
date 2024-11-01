@@ -1,2 +1,0 @@
-# Konsultasi Statistik
-

@@ -1,2 +1,0 @@
-# Rekomendasi Kegiatan Statistik
-
