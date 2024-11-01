@@ -8,7 +8,7 @@
     * [Konsultasi Statistik](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/konsultasi-statistik.md)
     * [Penjualan Produk Statistik](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/penjualan-produk-statistik.md)
     * [Rekomendasi Kegiatan Statistik](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/rekomendasi-kegiatan-statistik.md)
-  * [Lokasi](pelayanan-statistik-terpadu-pst/lokasi.md)
+  * [Kotak Saran dan Pengaduan](pelayanan-statistik-terpadu-pst/kotak-saran-dan-pengaduan.md)
 
 ## Statisik Kunci
 
