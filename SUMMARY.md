@@ -24,6 +24,10 @@
   * [Angka Partisipasi Sekolah (APS)](statisik-kunci/pendidikan/quickstart.md)
   * [Angka Partisipasi Murni (APM)](statisik-kunci/pendidikan/angka-partisipasi-murni-apm.md)
 
+***
+
+* [PPID](ppid.md)
+
 ## Basics
 
 * [Editor](basics/editor.md)
