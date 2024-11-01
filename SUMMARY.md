@@ -1,7 +1,10 @@
 # Table of contents
 
 * [One Stop Service BPS Kabupaten Labuhanbatu Selatan](README.md)
-* [STATISTIK KUNCI](statistik-kunci.md)
+* [STATISTIK KUNCI](statistik-kunci/README.md)
+  * [Statistik Demografi dan Sosial](statistik-kunci/statistik-demografi-dan-sosial.md)
+  * [Statistik Ekonomi](statistik-kunci/statistik-ekonomi.md)
+  * [Statistik Lingkungan Hidup & Multi Domain](statistik-kunci/statistik-lingkungan-hidup-and-multi-domain.md)
 * [PELAYANAN STATISTIK TERPADU (PST)](pelayanan-statistik-terpadu-pst/README.md)
   * [Jenis Layanan PST](pelayanan-statistik-terpadu-pst/jenis-layanan-pst.md)
   * [Prosedur Pelayanan](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/README.md)
