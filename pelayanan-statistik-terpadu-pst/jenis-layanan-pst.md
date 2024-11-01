@@ -19,12 +19,20 @@ d.  Pelayanan Rekomendasi Kegiatan Statistik.
 
 ***
 
-Berikut ini tarif terbaru layanan berbayar BPS Kabupaten Labuhanbatu Selatan sesuai Peraturan Pemerintah Nomor No. 13 Tahun 2024 tentang jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pusat Statistik.
+Berikut ini tarif terbaru **layanan berbayar** BPS Kabupaten Labuhanbatu Selatan sesuai Peraturan Pemerintah Nomor No. 13 Tahun 2024 tentang jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pusat Statistik.
 
 
 
-| Layanan | Tarif | Keterangan |
-| ------- | ----- | ---------- |
-|         |       |            |
-|         |       |            |
-|         |       |            |
+| Layanan                                                                    | Tipe                                                            | Ukuran                                                         | Tarif           |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- | --------------- |
+| <ol><li>Penjualan Data Mikro</li></ol>                                     | Tanpa Proses Data                                               | <ol><li>Sampai dengan 1 MB</li></ol>                           | Rp 20.000,-     |
+|                                                                            |                                                                 | <ol start="2"><li>Tambahan per 1000 bytes berikutnya</li></ol> | Rp 20,-         |
+|                                                                            | Dengan Proses Data (tabulasi hasil olahan data mikro per tabel) | <ol><li>Sampai dengan 1 MB</li></ol>                           | Rp 20.000,-     |
+|                                                                            |                                                                 | <ol start="2"><li>Tambahan per 1000 bytes berikutnya</li></ol> | Rp 20,-         |
+| <ol start="2"><li>Penjualan Peta Digital Wilayah Kerja Statistik</li></ol> | Peta Indonesia per Kecamatan                                    | -                                                              | Rp 12.000.000,- |
+|                                                                            | Peta Indonesia per Desa/Kelurahan                               | -                                                              | Rp 36.000.000,- |
+|                                                                            | Peta Kabupaten/Kota per Kecamatan                               | -                                                              | Rp 30.000       |
+|                                                                            | Peta Kabupaten/Kota per Desa/Kelurahan                          | -                                                              | Rp 70.000,-     |
+| <ol start="3"><li>Penjualan Publikasi Elektronik</li></ol>                 | -                                                               | <ol><li>Sampai dengan 50 Halaman</li></ol>                     | Rp 50.000,-     |
+|                                                                            |                                                                 | <ol start="2"><li>Tambahan per 50 Halaman Berikutnya</li></ol> | Rp 15.000,-     |
+
