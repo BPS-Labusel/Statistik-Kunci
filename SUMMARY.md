@@ -1,7 +1,7 @@
 # Table of contents
 
 * [One Stop Service BPS Kabupaten Labuhanbatu Selatan](README.md)
-* [Pelayanan Statistik Terpadu (PST)](pelayanan-statistik-terpadu-pst/README.md)
+* [PELAYANAN STATISTIK TERPADU (PST)](pelayanan-statistik-terpadu-pst/README.md)
   * [Jenis Layanan PST](pelayanan-statistik-terpadu-pst/jenis-layanan-pst.md)
   * [Prosedur Pelayanan](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/README.md)
     * [Perpustakaan](pelayanan-statistik-terpadu-pst/prosedur-pelayanan/perpustakaan.md)
@@ -12,21 +12,22 @@
 
 ## Statisik Kunci
 
-* [KEMISKINAN](statisik-kunci/kemiskinan/README.md)
-  * [Persentase Penduduk Miskin](statisik-kunci/kemiskinan/publish-your-docs.md)
-* [SISTEM NERACA NASIONAL](statisik-kunci/sistem-neraca-nasional/README.md)
-  * [Pertumbuhan Ekonomi](statisik-kunci/sistem-neraca-nasional/pertumbuhan-ekonomi.md)
-  * [PDRB](statisik-kunci/sistem-neraca-nasional/pdrb.md)
-  * [Page 1](statisik-kunci/sistem-neraca-nasional/page-1.md)
-* [KETENAGAKERJAAN](statisik-kunci/ketenagakerjaan/README.md)
+* [Sosial, Kesejahteraan dan Kependudukan](statisik-kunci/sosial-kesejahteraan-dan-kependudukan/README.md)
+  * [Persentase Penduduk Miskin](statisik-kunci/sosial-kesejahteraan-dan-kependudukan/publish-your-docs.md)
+* [Sistem Neraca Nasional (SNN)](statisik-kunci/sistem-neraca-nasional-snn/README.md)
+  * [Pertumbuhan Ekonomi](statisik-kunci/sistem-neraca-nasional-snn/pertumbuhan-ekonomi.md)
+  * [PDRB](statisik-kunci/sistem-neraca-nasional-snn/pdrb.md)
+  * [Page 1](statisik-kunci/sistem-neraca-nasional-snn/page-1.md)
+* [Ketenagakerjaan](statisik-kunci/ketenagakerjaan/README.md)
   * [Tingkat Pengangguran Terbuka](statisik-kunci/ketenagakerjaan/tingkat-pengangguran-terbuka.md)
-* [PENDIDIKAN](statisik-kunci/pendidikan/README.md)
-  * [Angka Partisipasi Sekolah (APS)](statisik-kunci/pendidikan/quickstart.md)
-  * [Angka Partisipasi Murni (APM)](statisik-kunci/pendidikan/angka-partisipasi-murni-apm.md)
 
 ***
 
-* [Metadata](metadata.md)
+* [SURVEI KEBUTUHAN DATA (SKD)](survei-kebutuhan-data-skd.md)
+* [METADATA](metadata/README.md)
+  * [Pengajuan Metadata](metadata/pengajuan-metadata.md)
+* [HUMAS](humas.md)
+* [FAQ](faq.md)
 * [PPID](ppid.md)
 
 ## Basics
