@@ -18,7 +18,6 @@
   * [Pengajuan Metadata](metadata/pengajuan-metadata.md)
 * [SURVEI KEBUTUHAN DATA (SKD)](survei-kebutuhan-data-skd.md)
 * [HUMAS & SOSIAL MEDIA](humas-and-sosial-media.md)
-* [BUKU TAMU](buku-tamu.md)
 * [FAQ](faq.md)
 
 ## Basics
