@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/foto kantor (1).png
+cover: ../.gitbook/assets/foto kantor (1).png
 coverY: 0
 ---
 
@@ -15,3 +15,16 @@ c.   Pelayanan Penjualan Produk Statistik;
 
 d.  Pelayanan Rekomendasi Kegiatan Statistik.
 
+
+
+***
+
+Berikut ini tarif terbaru layanan berbayar BPS Kabupaten Labuhanbatu Selatan sesuai Peraturan Pemerintah Nomor No. 13 Tahun 2024 tentang jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Badan Pusat Statistik.
+
+
+
+| Layanan | Tarif | Keterangan |
+| ------- | ----- | ---------- |
+|         |       |            |
+|         |       |            |
+|         |       |            |
