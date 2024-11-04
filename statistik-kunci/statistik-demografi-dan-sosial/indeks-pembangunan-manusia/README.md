@@ -22,5 +22,5 @@ Metadata Indikator IPM
 | Komponen    | Uraian                  |
 | ----------- | ----------------------- |
 | Sumber data | Susenas dan Survei Lain |
-| Satuan      |                         |
-| Ukuran      |                         |
+| Satuan      | -                       |
+| Ukuran      | Rasio                   |
