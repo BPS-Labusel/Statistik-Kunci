@@ -12,7 +12,7 @@
     * [Indeks Kemahalan Konstruksi (IKK)](statistik-kunci/indikator-lainnya/indeks-kemahalan-konstruksi-ikk.md)
     * [Tingkat Pengangguran Terbuka (TPT)](statistik-kunci/indikator-lainnya/tingkat-pengangguran-terbuka-tpt.md)
     * [Indeks Pembangunan Gender (IPG)](statistik-kunci/indikator-lainnya/indeks-pembangunan-gender-ipg.md)
-    * [Indeks Pemberdayaan Gender (IDG)](statistik-kunci/indikator-lainnya/indeks-pemberdayaan-gender-idg.md)
+    * [Indeks Pemberdayaan Gender (IDG)](statistik-kunci/indikator-lainnya/idg.md)
     * [Indeks Ketimpangan Gender (IKG)](statistik-kunci/indikator-lainnya/indeks-ketimpangan-gender-ikg.md)
     * [PDRB](statistik-kunci/indikator-lainnya/pdrb.md)
   * [Statistik Ekonomi](statistik-kunci/statistik-ekonomi/README.md)
