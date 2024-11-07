@@ -14,12 +14,12 @@ Mulai tahun 2013 penghitungan IKK sudah menggunakan _Bill of Quantity_ (BoQ) ter
 Sedangkan IKK tahun 2024 menggunakan penimbang yang lebih lengkap dan up to date yaitu menggunakan updating BoQ tahun 2023
 {% endhint %}
 
-| Komponen           | Uraian                                                             |
-| ------------------ | ------------------------------------------------------------------ |
-| Rumus              | IKK = (Biaya Konstruksi Daerah/Biaya Konstruksi Daerah Acuan)\*100 |
-| Interpretasi       |                                                                    |
-| Sumber Data        |                                                                    |
-| Ukuran             |                                                                    |
-| Satuan             | -                                                                  |
-| Variabel Pembangun | <p>Biaya Konstruksi Daerah<br>Biaya Konstruksi Daerah Acuan</p>    |
+| Komponen           | Uraian                                                                                                                                                                                                                                                                       |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rumus              | IKK = (Biaya Konstruksi Daerah/Biaya Konstruksi Daerah Acuan)\*100                                                                                                                                                                                                           |
+| Interpretasi       | <p>semakin tinggi angka IKK di suatu daerah maka semakin tinggi pula biaya yang diperlukan untuk mendirikan sebuah bangunan di daerah tersebut.<br>Jika IKK suatu kota adalah 130, artinya biaya konstruksi di kota tersebut adalah 30% lebih mahal daripada kota acuan.</p> |
+| Sumber Data        | Survei Harga Kemahalan Konstruksi                                                                                                                                                                                                                                            |
+| Ukuran             | Nominal                                                                                                                                                                                                                                                                      |
+| Satuan             | -                                                                                                                                                                                                                                                                            |
+| Variabel Pembangun | <p>Biaya Konstruksi Daerah<br>Biaya Konstruksi Daerah Acuan</p>                                                                                                                                                                                                              |
 

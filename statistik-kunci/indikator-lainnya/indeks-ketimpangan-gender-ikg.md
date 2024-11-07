@@ -1,0 +1,2 @@
+# Indeks Ketimpangan Gender (IKG)
+
