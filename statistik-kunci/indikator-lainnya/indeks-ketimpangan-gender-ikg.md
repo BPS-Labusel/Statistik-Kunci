@@ -19,11 +19,11 @@ IKG menggambarkan sejauh mana kehilangan (loss) pencapaian pembangunan manusia a
 Pengukuran (IKG) merujuk pada Gender Inequality Index (GII) UNDP dengan penyesuaian pada indikator yang digunakan.
 {% endhint %}
 
-| Komponen            | Uraian                                                           |
-| ------------------- | ---------------------------------------------------------------- |
-| Rumus               | <p>IKG = 1 - (HARM (Gₚ, Gₗ)/Gₚ,ₗ)<br>IKG = 1 - ( IKR*IP*IPK)</p> |
-| Interpretasi        |                                                                  |
-| Sumber Data         |                                                                  |
-| Ukuran              |                                                                  |
-| Satuan              |                                                                  |
-| Indikator Pembangun |                                                                  |
+| Komponen            | Uraian                                                                                                                                                       |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Rumus               | <p>IKG = 1 - Indeks Kesetaraan Gender<br>IKG = 1 - (<em>HARM (Gₚ, Gₗ)/Gₚ,ₗ</em>)</p>                                                                         |
+| Interpretasi        |                                                                                                                                                              |
+| Sumber Data         | Sakernas                                                                                                                                                     |
+| Ukuran              |                                                                                                                                                              |
+| Satuan              | -                                                                                                                                                            |
+| Indikator Pembangun | <ul><li><em>Gₚ:</em>Indeks Perempuan</li><li><em>Gₗ:</em>Indeks Laki-laki</li><li><em>Gₚ,ₗ:</em>Agregasi Indeks Dimensi dengan rata-rata Geometrik</li></ul> |

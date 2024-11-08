@@ -1,7 +1,5 @@
 # Tingkat Pengangguran Terbuka (TPT)
 
-
-
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/Lambang_Badan_Pusat_Statistik_(BPS)_Indonesia.svg.png" alt="" width="188"><figcaption><p>BPS Kab. Labuhanbatu Selatan</p></figcaption></figure>
@@ -27,4 +25,4 @@ _TPT = (Jumlah Penduduk Pengangguran/Jumlah Penduduk Angakatan Kerja)\*100%_
 | Sumber Data        |                                                                                                                                                                                                                |
 | Ukuran             | Nominal                                                                                                                                                                                                        |
 | Satuan             | Persen                                                                                                                                                                                                         |
-| Variabel Pembangun | <p>Jumlah Pengangguran (Orang)<br>Jumlah Angkata Kerja (Orang)</p>                                                                                                                                             |
+| Variabel Pembangun | <ul><li>Jumlah Pengangguran (Orang)</li><li>Jumlah Angkata Kerja (Orang)</li></ul>                                                                                                                             |

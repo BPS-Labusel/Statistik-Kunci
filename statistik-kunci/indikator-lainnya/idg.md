@@ -10,11 +10,11 @@ Indeks Pemberdayaan Gender (IDG) atau Gender Empowerment Measure (GEM) mengukur 
 
 Dengan melalui IDG dapat menggambarkan perbedaan peranan antara perempuan dan laki-laki dari pencapaian kapabilitas berdasarkan status dan kedudukan perempuan dibandingkan laki-laki
 
-| Komponen            | Uraian                                                                                                    |
-| ------------------- | --------------------------------------------------------------------------------------------------------- |
-| Rumus               | IDG = (1/3) \* (Ipar+IDG+Iinc−dis)                                                                        |
-| Interpretasi        | Semakin tinggi nilai IDG, maka semakin besar peranan aktif perempuan dalam kehidupan ekonomi dan politik. |
-| Sumber Data         |                                                                                                           |
-| Ukuran              | Indeks                                                                                                    |
-| Satuan              | -                                                                                                         |
-| Indikator Pembangun | Keterlibatan Perempuan dalam Parlemen Perempuan sebagai Tenaga Profesional Sumbangan Pendapatan Perempuan |
+| Komponen            | Uraian                                                                                                                                      |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rumus               | IDG = (1/3) \* (Ipar+IDG+Iinc−dis)                                                                                                          |
+| Interpretasi        | Semakin tinggi nilai IDG, maka semakin besar peranan aktif perempuan dalam kehidupan ekonomi dan politik.                                   |
+| Sumber Data         |                                                                                                                                             |
+| Ukuran              | Indeks                                                                                                                                      |
+| Satuan              | -                                                                                                                                           |
+| Indikator Pembangun | <ul><li>Keterlibatan Perempuan dalam Parlemen</li><li>Perempuan sebagai Tenaga Profesional</li><li>Sumbangan Pendapatan Perempuan</li></ul> |
