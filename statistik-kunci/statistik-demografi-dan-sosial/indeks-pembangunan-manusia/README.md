@@ -31,4 +31,4 @@ $$
 | Sumber data         | Susenas dan Survei Lain                                                                                   |
 | Ukuran              | Rasio                                                                                                     |
 | Satuan              | -                                                                                                         |
-| Indikator Pembangun | <ul><li>Indeks Kesehatan (UHH</li></ul><ul><li>Indeks Pendididkan</li><li>Indeks Pengeluaran</li></ul>    |
+| Indikator Pembangun | <ul><li>Indeks Kesehatan (UHH)</li><li>Indeks Pendididkan</li><li>Indeks Pengeluaran</li></ul>            |

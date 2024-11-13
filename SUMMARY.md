@@ -14,6 +14,7 @@
     * [Indeks Pembangunan Gender (IPG)](statistik-kunci/indikator-lainnya/indeks-pembangunan-gender-ipg.md)
     * [Indeks Pemberdayaan Gender (IDG)](statistik-kunci/indikator-lainnya/idg.md)
     * [Indeks Ketimpangan Gender (IKG)](statistik-kunci/indikator-lainnya/indeks-ketimpangan-gender-ikg.md)
+    * [Indeks Kepuasan Konsumen (IKK)](statistik-kunci/indikator-lainnya/indeks-kepuasan-konsumen-ikk.md)
     * [PDRB](statistik-kunci/indikator-lainnya/pdrb.md)
   * [Statistik Ekonomi](statistik-kunci/statistik-ekonomi/README.md)
     * [Page 1](statistik-kunci/statistik-ekonomi/page-1.md)
